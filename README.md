@@ -64,20 +64,24 @@ I’m an Android Developer from India with a passion for crafting innovative, us
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sumant-kushwaha&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumant-kushwaha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumant-kushwaha&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant-kushwaha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ---
 
-<!-- ## 🌟 Featured Projects
-- **[Project Name]**: A brief description of an Android app you’re proud of (e.g., "Built with Kotlin and Jetpack Compose"). *[Link to repo]*  
-- **[Project Name]**: Highlight another project that showcases your skills. *[Link to repo]*  
-*(Feel free to add real projects here!)*
-
---- -->
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sumant-kushwaha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+---
 
 ## ☕ Support My Work
 If you like what I do, consider fueling my coding adventures with a coffee!  
