@@ -64,9 +64,15 @@ I’m an Android Developer from India with a passion for crafting innovative, us
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumant-kushwaha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sumant-kushwaha&theme=radical&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant-kushwaha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
 
 ---
 
@@ -81,6 +87,7 @@ I’m an Android Developer from India with a passion for crafting innovative, us
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sumant-kushwaha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
+
 ---
 
 ## ☕ Support My Work
