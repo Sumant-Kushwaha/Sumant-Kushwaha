@@ -1,22 +1,103 @@
-# 💫 About Me:
-🚀 Currently working on Android development<br>🤝 Open to collaborating on open-source Kotlin projects<br>📚 Learning Kotlin, Android development, and Python<br>🔍 Seeking help and guidance to improve my skills<br>💡 Passionate about building innovative mobile apps<br>🔧 Exploring Jetpack Compose, MVVM architecture, and Firebase<br>🎯 Aiming to contribute to open-source projects and expand my knowledge<br>📬 Let's connect and build something amazing together!
+<h1 align="center">Hello 👋, I'm Sumant Kushwaha</h1>
+<h3 align="center">Passionate Android Developer | Innovator | Open-Source Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumant-kushwaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sumant_Kushwahaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumant-kushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SumantKushwaha.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumant-Kushwaha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumant-Kushwaha&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant-Kushwaha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumant-kushwaha&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumant-Kushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake.svg" />
-</picture>
+## 🚀 About Me
+I’m an Android Developer from India with a passion for crafting innovative, user-focused mobile applications. I thrive on solving complex problems and building solutions that make a difference. Here’s what I’m up to:
+
+- 🌟 **Currently Working On**: Cutting-edge Android development projects  
+- 🤝 **Open to Collaboration**: Excited to contribute to open-source Kotlin projects  
+- 📚 **Learning Journey**: Deepening my expertise in Kotlin, Jetpack Compose, and Python  
+- 🛠 **Tech Explorer**: Diving into MVVM architecture, Firebase, and modern Android tools  
+- 🎯 **Goal**: Create impactful apps and give back to the developer community  
+- 📩 **Let’s Connect**: I’d love to collaborate and build something extraordinary together!
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="https://linkedin.com/in/sumant-kushwaha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/Sumant_Kushwahaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:SumantKushwaha.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dev.to/sumant_kushwaha" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
+
+---
+
+## 💻 My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumant-kushwaha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumant-kushwaha&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant-kushwaha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<!-- ## 🌟 Featured Projects
+- **[Project Name]**: A brief description of an Android app you’re proud of (e.g., "Built with Kotlin and Jetpack Compose"). *[Link to repo]*  
+- **[Project Name]**: Highlight another project that showcases your skills. *[Link to repo]*  
+*(Feel free to add real projects here!)*
+
+--- -->
+
+## ☕ Support My Work
+If you like what I do, consider fueling my coding adventures with a coffee!  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Sumant_Kushwaha">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
+## 🐍 Code in Motion
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/Sumant-Kushwaha/Sumant-Kushwaha/blob/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+
+### Let’s Build the Future Together!  
+I’m always excited to connect with fellow developers, share knowledge, and work on impactful projects. Reach out, and let’s create something amazing!
