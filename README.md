@@ -93,8 +93,11 @@ I’m an Android Developer from India with a passion for crafting innovative, us
 ## ☕ Support My Work
 If you like what I do, consider fueling my coding adventures with a coffee!  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Sumant_Kushwaha">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  <a href="https://buymeacoffee.com/sumantkushwaha">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sumant_Kushwaha" />
+  </a>
+  <a href="https://ko-fi.com/sumantkushwaha">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sumantkushwaha" />
   </a>
 </p>
 
