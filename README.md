@@ -32,7 +32,7 @@ I’m an Android Developer from India with a passion for crafting innovative, us
   <a href="https://linkedin.com/in/sumant-kushwaha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/Sumant_Kushwahaa" target="_blank">
+  <a href="https://instagram.com/Sumant_Kushwaha.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:SumantKushwaha.dev@gmail.com" target="_blank">
