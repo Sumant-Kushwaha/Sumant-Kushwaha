@@ -41,10 +41,11 @@ I’m an Android Developer from India with a passion for crafting innovative, us
   <a href="https://dev.to/sumant_kushwaha" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://sumantportf.netlify.app/" target="_blank">     
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />   
-  </a> 
+  <a href="https://sumantportf.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
 
 ---
 
